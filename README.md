@@ -4,7 +4,12 @@
 Read the final report [here]().
 
 We are team 2 again yooyy.. rwefe
+Thomas can push!
+<<<<<<< HEAD
 new repo
+=======
+Trying to edit
+>>>>>>> 9a4c0049b9d442b4ddf71114dccf1b4005f1e9f9
 ---
 
 ## Table of Contents
