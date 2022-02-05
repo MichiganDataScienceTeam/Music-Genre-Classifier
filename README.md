@@ -3,16 +3,18 @@
 
 Read the final report [here]().
 
+We are team 2
+
 ---
 
-## Table of Contents 
+## Table of Contents
 * [Description](#description)
 * [Goals](#goals)
 * [Project Roadmap](#project-roadmap)
 
 ## Description
 With the abundance of music being produced and available online today, genre classification is a useful task in the music industry.
-The goal of this project is to develop a model capable of classifying the genre of a song based on its lyrics. We will utilize natural language processing, supervised learning, and 
+The goal of this project is to develop a model capable of classifying the genre of a song based on its lyrics. We will utilize natural language processing, supervised learning, and
 
 ## Goals
 1. Acquaint members with the basic structure and timeline of a data science project
@@ -22,7 +24,7 @@ The goal of this project is to develop a model capable of classifying the genre 
 5. Have fun and learn something! :)
 
 ## Project Roadmap
-Week of **2/05**: 
+Week of **2/05**:
 - Get Familiar with NLP and the project
 - Meet and form project teams
 ---
@@ -38,7 +40,7 @@ Weeks 2-3 **2/12 - 2/19**:
 
 Weeks 4-5 **3/12 - 3/19**:
 - More model building
-- Train models 
+- Train models
 ---
 
 Weeks 6-7 **3/26 - 4/2**:
